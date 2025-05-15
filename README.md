@@ -1,5 +1,7 @@
 # Vuples Spotify MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@ejfox/vulpes-spotify-mcp)](https://smithery.ai/server/@ejfox/vulpes-spotify-mcp)
+
 A Model Context Protocol (MCP) server that enables AI assistants like Claude to interact with Spotify, allowing them to search for and play tracks.
 
 ## Features
@@ -23,6 +25,15 @@ A Model Context Protocol (MCP) server that enables AI assistants like Claude to 
 
 ## Installation
 
+### Installing via Smithery
+
+To install Vulpes Spotify Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@ejfox/vulpes-spotify-mcp):
+
+```bash
+npx -y @smithery/cli install @ejfox/vulpes-spotify-mcp --client claude
+```
+
+### Manual Installation
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/spotify-mcp.git
