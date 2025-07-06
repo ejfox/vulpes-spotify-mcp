@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ejfox-vulpes-spotify-mcp-badge.png)](https://mseep.ai/app/ejfox-vulpes-spotify-mcp)
+
 # Vuples Spotify MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@ejfox/vulpes-spotify-mcp)](https://smithery.ai/server/@ejfox/vulpes-spotify-mcp)
